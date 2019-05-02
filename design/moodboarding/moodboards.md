@@ -35,7 +35,7 @@ I also used [ColorFavs](http://www.colorfavs.com/) to generate a palette of colo
 
 *Boots, tents, dirt, dust and rugged terrain* all fit the brief. Whilst an image or two from the Mood Board may make it into the final product, what's relevant here is the look and feel I am going for.
 
-** *Stay focused. It's going to be epic* ** is a borrowed phrase which has become a personal motto. This phrase is highly likely to make it into the final product but not neccessarily.
+** *Stay focused. It's going to be epic* ** is a borrowed phrase which has become a personal motto. This phrase is highly likely to make it into the final product but not necessarily.
 
 I know I want a heavy font for titles and headings but with so many to choose from, I'll reserve that decision for now.
 
