@@ -46,4 +46,4 @@ Do you have an idea for a killer app? How about an idea of something that would 
 1. Decide a theme/product.
 2. Create a Mood Board for the product.
 3. Publish a description of the product and your Mood Board to Github.
-4. Share the link via slack in the **design** channel.
+4. Share the link via slack in the **design** channel using the hashtag **#moodboardingszerochallenge**.
