@@ -1,4 +1,11 @@
-# Mood Board challenge
+# Mood Boards
+
+## What are we learning here?
+
+* The purpose and composition of a Mood Board.
+* Mood Boards as collaborative tools within teams and with clients.
+* Tools to create Mood Boards.
+* Creating a Mood Board from a simple specification.
 
 ![westmacsapp inspo-pic](westmacsappinspopic.png)
 *The client (me) has produced this image as the inspiration for the look and feel of a new product. This image will be central to our Mood Board.*
@@ -45,6 +52,10 @@ I also used [ColorFavs](http://www.colorfavs.com/) to generate a palette of colo
 
 I know I want a heavy font for titles and headings but with so many to choose from, I'll reserve that decision for now.
 
+<br>
+
+<hr>
+
 # :trophy: Your challenge - Moodboarding Zero
 
 Do you have an idea for a killer app? How about an idea of something that would just be fun/pretty/interesting to make?
@@ -53,3 +64,6 @@ Do you have an idea for a killer app? How about an idea of something that would 
 2. Create a Mood Board for the product.
 3. Publish a description of the product and your Mood Board to Github.
 4. Share the link via slack in the **design** channel using the hashtag **#moodboardingszerochallenge**.
+
+<br>
+<hr>
