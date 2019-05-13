@@ -1,11 +1,19 @@
 # Images for the web
 
+### Recommended reading...
+
+* [Shopify Blogs. 10 Must Know Image Optimization Tips](https://www.shopify.com.au/blog/7412852-10-must-know-image-optimization-tips)
+
+<br>
+
 When saving images, what file type should you use?
 
 The rule(s) of thumb...
 
 * **.jpg** for photographs
 * **.png** for graphics and transparency
+
+<br>
 
 # Image optimisation for web
 
@@ -19,11 +27,30 @@ The rule(s) of thumb...
 
 :point_right: **What file format should I use for other graphics like logos?** *Use **.png**. It supports transparency (on logo backgrounds, for instance), and scales well.
 
-:point_right: **How can I resize an image?** The default editor on any OS should allow you to resize your images, and choose file type.
-
-<hr>
+:point_right: **How can I resize an image?** The default image editor on any OS should allow you to resize your images, and choose an appropriate file type.
 
 <br>
+
+## Image editing tools (free)
+
+* [PIXLR](https://pixlr.com/)
+* [Adobe Photoshop express](https://www.photoshop.com/products/photoshopexpress)
+* [GIMP](https://www.gimp.org/)
+
+<br>
+
+## Resizing images in the browser
+
+You can and should resize images in the browser where required, however, be mindful of the fact that the file size will remain the same.
+
+````
+<img src="myimage.jpg" width="300px">
+````
+Code snippet 1: Inline image resizing example
+
+<br>
+
+<hr>
 
 ## Scalable Vector Graphics SVG
 
