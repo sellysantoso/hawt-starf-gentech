@@ -2,6 +2,7 @@
 
 ### Recommended reading...
 
+* [Google: Image Optimisation](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization)
 * [Shopify Blogs. 10 Must Know Image Optimization Tips](https://www.shopify.com.au/blog/7412852-10-must-know-image-optimization-tips)
 
 <br>
